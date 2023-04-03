@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: veer2/test8
+        image: alinrizea/web
         ports:
         - containerPort: 80
